@@ -9,7 +9,7 @@ from playwright.async_api import async_playwright
 ROCOM_API_KEY = os.environ.get("sk-2aea8e06766658f1550fa0fac4fff581")
 IMGBB_KEY = os.environ.get("d3c985f3f6126c5e63bb42e0ae9df211")
 NOTIFYME_UUID = os.environ.get("NOTIFYME_UUID")
-BARK_KEY = os.environ.get("9mD2VuaVGaqLFEoAoDzWti")
+BARK_KEY = os.environ.get("AfJkZ7rZ59JSB4hpMHRhHX")
 
 GAME_API_URL = "https://wegame.shallow.ink/api/v1/games/rocom/merchant/info"
 NOTIFYME_SERVER = "https://notifyme-server.wzn556.top/api/send"
